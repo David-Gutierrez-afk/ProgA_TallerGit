@@ -7,3 +7,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
+versión 2.0 creación de conflicto
