@@ -1,7 +1,7 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Pendiente
+1. David Manuel Gutierrez Guzman- Developer
 2. Pendiente
 3. juan salazar - frontend
 
