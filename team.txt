@@ -3,7 +3,7 @@ Equipo de Desarrollo
 Integrantes:
 1. David Manuel Gutierrez Guzman- Developer
 2. Pendiente
-3. juan salazar - frontend
+3. juan salazar - CEO
 
 Proyecto:
 Aplicación de perfiles del equipo
