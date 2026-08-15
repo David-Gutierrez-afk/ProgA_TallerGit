@@ -9,10 +9,4 @@ Proyecto:
 Aplicación de perfiles del equipo
 versión 2.0 creación de conflicto
 
-2. Nicolas Hernández - frontend
-3. juan salazar - frontend
-
-Proyecto:
-Aplicación de perfiles del equipo
-Versión: 1.1 - Cambios de diseño
 
